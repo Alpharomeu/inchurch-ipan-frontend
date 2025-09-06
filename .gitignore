@@ -137,3 +137,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Extras úteis
+.env
+.env.*
+dist/
+
+feat: adiciona .env e dist ao .gitignore
